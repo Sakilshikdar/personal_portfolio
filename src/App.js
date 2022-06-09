@@ -1,12 +1,12 @@
-import './App.css';
-import Header from './pages/Home/Header';
-import Navbar from './shared/Navbar';
+import Navbar from "./components/Navbar";
+import Home from "./pages/Home/Home";
 
 function App() {
   return (
     <div>
-     <Navbar></Navbar>
-     <Header></Header>
+      <Navbar>
+        <Home></Home>
+      </Navbar>
     </div>
   );
 }
