@@ -43,11 +43,11 @@ const Navbar = ({ children }) => {
                                     Contact
                                 </a>
                             </li>
-                            <li style={{nabStyle}}>
+                            {/* <li style={{nabStyle}}>
                                 <a className='rounded-lg'>
                                     Login
                                 </a>
-                            </li>
+                            </li> */}
                         </ul>
                     </div>
                 </div>
@@ -76,11 +76,11 @@ const Navbar = ({ children }) => {
                             Contact
                         </a>
                     </li>
-                    <li>
+                    {/* <li>
                         <a className='rounded-lg'>
                             Login
                         </a>
-                    </li>
+                    </li> */}
 
                 </ul>
 
