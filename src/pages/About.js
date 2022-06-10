@@ -13,11 +13,6 @@ const About = () => {
                 </div>
             </div>
         </div>
-        // <div>
-        //     <div className='mt-5 ml-8 lg:ml-48'>
-        //     <h1 className='text-3xl font-bold  text-primary'>About Me</h1>
-        //     </div>
-        // </div>
     );
 };
 
